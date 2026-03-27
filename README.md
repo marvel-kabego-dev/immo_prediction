@@ -34,6 +34,11 @@ uvicorn main:app --reload
 API disponible sur `http://127.0.0.1:8000`
 Documentation interactive sur `http://127.0.0.1:8000/docs`
 
+## Interface visuelle Streamlit
+
+App accessible via `https://immo-prediction.streamlit.app`
+
+
 ## Exemple de prédiction
 ```json
 POST /predict
