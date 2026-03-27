@@ -1,0 +1,8 @@
+{
+    "MAE_log": 0.0895,
+    "RMSE_log": 0.1331,
+    "R2": 0.9051,
+    "MAE_dollars": 14500,
+    "points_forts": "Maisons 100k-400k$",
+    "points_faibles": "Biens luxe >500k$"
+}
